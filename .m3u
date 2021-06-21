@@ -1,0 +1,153 @@
+#EXTM3U
+
+#EXTINF:-1,RO: PRO TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=169d65780eb26f69bbc8590b022187c8cdbe945c
+
+#EXTINF:-2,RO: PRO 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec94792ed9f43ad99e8aeb125c89d05c3ab1f2d7
+
+#EXTINF:-3,RO: PRO X
+http://127.0.0.1:6878/ace/manifest.m3u8?id=db0b81bdbfb2cd44ce92adff9192a5c97510989d
+
+#EXTINF:-4,RO: PRO GOLD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=829fa1e850013e172c7c9bbcea651cae3c4aa5fa
+
+#EXTINF:-5,RO: ANT 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=385b69673a0c85128a7fbc88b501ab1b27fe08eb
+
+#EXTINF:-6,RO: KANAL D
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0976f71c4cdbe1d651580012e8e542e815320818
+
+#EXTINF:-7,RO: ANT 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1335b505b8f4ac35d7f3a8e961c097f28283c3a4
+
+#EXTINF:-8,RO: PRIMA TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=872ed8aeba3fcfc5eeacf05a9f7bc1d6df428e28
+
+#EXTINF:-9,RO: RTV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=093bf8461aa376e7ec287bdfa6afa8d2cb9ea832
+
+#EXTINF:-10,RO: AMC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=58b61811e3f2755a2b17360e2faa68ce00eca77d
+
+#EXTINF:-11,RO: TVR 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=97aa76b4aeab37db231ea6211774ada1d97bc928
+
+#EXTINF:-12,RO: FILM CAFE
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c26764384ee35edcc38daf24432f97986c40a1d8
+
+#EXTINF:-13,RO: REALITATEA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=da38e54ddc4cedbbde3f4fbdfc3988ce31423908
+
+#EXTINF:-14,RO: REALITATEA +
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2d4b8ae7a4c402ad61c536ccc8e9d2ff494f2e51
+
+#EXTINF:-15,RO: DIVA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=da23bcce9dd2689e202b544d5228e47ee873390b
+
+#EXTINF:-16,RO: NATIONAL TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=18e37fac4575a1cfd2f58a3fe325cbf7f2866274
+
+#EXTINF:-17,RO: TV 1000
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fce853b5e89addc90a545c9aefd29e6b2da432ef
+
+#EXTINF:-18,RO: PRO CINEMA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c8bd97bf739a643c36de38b58cfb98b8d14f80cb
+
+#EXTINF:-19,RO: ZU TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e02c49f4380617bd083d47e85ccf138e84d3c90c
+
+#EXTINF:-20,RO: KISS TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6797f1863fe577a723811ef14ef67a5a152ee736
+
+#EXTINF:-21,RO: TARAF TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f59cc7ae44427cb7b33ae0640488b34199c8e379
+
+#EXTINF:-22,RO: AXN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e4faba71603514488f27c1ba3a2715bd8ffa8d9e
+
+#EXTINF:-23,RO: AXN WHITE
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f13efacb8c14f1257dcbfc6cb97a89fa461ebd98
+
+#EXTINF:-24,RO: AXN BLACK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=211eeed348628f331975a2f5cf143b4a94dc41bb
+
+#EXTINF:-25,RO: AXN SPIN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=046be92e8ad8663f097b852a448cef4e050fe4cd
+
+#EXTINF:-26,RO: TNT
+http://127.0.0.1:6878/ace/manifest.m3u8?id=aa3cf1c068c7902cd5f83c06e83a0c874a173080
+
+#EXTINF:-27,RO: HAPPY TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5ef1f2a29abdf2e4db434ba4baabd8951c6b38e7
+
+#EXTINF:-28,RO: COMEDY CENTRAL
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fece7a4e6491feb836ccb83075ab9984ab9ea385
+
+#EXTINF:-29,RO: ANTENA STARS
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7ea39c0e603c8a0e6ec0c288cd6134723e5c25f0
+
+#EXTINF:-30,RO: CINEMAX
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c6b9a71b384b7fc6fa177e3536819f377fd03026
+
+#EXTINF:-31,RO: CINEMAX 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=63653d93c1ae8ba215e2550d6df369055d6594e6
+
+#EXTINF:-32,RO: FILM NOW
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a6a685ae05473c3dc273ba46222740b59fbcca5
+
+#EXTINF:-33,RO: FILM BOX
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9a2d005de125a3a3ebfb0142641bf82f45f0c2ed
+
+#EXTINF:-34,RO: FILM BOX FAMILY
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ad79483ef539eb15d9bcca880ee3fb960df97698
+
+#EXTINF:-35,RO: BOLLYWOOD TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a8fb560dd631022906844bac155fc50d5399e722
+
+#EXTINF:-36,RO: EPIC DRAMA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5cb51df0c0940aaa43bdac8e8625203b08bee3a4
+
+#EXTINF:-37,RO: VIASAT EXPLORER
+http://127.0.0.1:6878/ace/manifest.m3u8?id=78224fc4fd963088244cdb84de55df89478b477a
+
+#EXTINF:-38,RO: VIASAT NATURE
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9c6d4fa4d8587652bf92729b5979cc4e09e6bd2c
+
+#EXTINF:-39,RO: DISNEY CH
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b45b928e3b1ee01e1339a5a5842df22a2e317291
+
+#EXTINF:-40,RO: ENTERTAINMENT
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a35ff01f96eed87993261cfbf405bf63d1e08d6d
+
+#EXTINF:-41,RO: TLC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3c00056dbdeff902d15e8bbb38606ef0db9809c0
+
+#EXTINF:-42,RO: BBC EARTH
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9d0c99bc76611b7e36d8e103e9e7babbd8ed9265
+
+#EXTINF:-43,RO: NATIONAL GEOGRAPHIC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5268e47322feef8dbfb0a87e807320a85b82e2c5
+
+#EXTINF:-44,RO: NATIONAL GEOGRAPHIC WILD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a8931d97ad9e925d9659b006d37ec2ab1101c393
+
+#EXTINF:-45,RO: HISTORY
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3436106579d1b0a585a05cb3f3b99f1d5230cf8d
+
+#EXTINF:-46,RO: HBO
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6a874f29ed839896f5272c9263abc399f00c417e
+
+#EXTINF:-47,RO: HBO 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2f4f00cbbd9ec4d5028faa51e112659795fc6857
+
+#EXTINF:-48,RO: HBO 3
+
+#EXTINF:-49,RO: DISCOVERY 
+http://127.0.0.1:6878/ace/manifest.m3u8?id=91801ba849d58cd5df5fbfd1d5f0bbc712d6e24b
+
+#EXTINF:-50,RO: DISCOVERY ID
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8aec10d1f98d4cc315688a87b28bee7600796306
+
+#EXTINF:-51,RO: DISCOVERY SCI
+http://127.0.0.1:6878/ace/manifest.m3u8?id=18808be921c863123f811a891e3b3b7160f08f02
